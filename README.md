@@ -17,6 +17,9 @@
 ## Changing the Sample
 ### Finally, a function was created the updates the dashboard when a sample is changed via the dropdown menu. When the sample ID is changed it updates the bar chart, bubbke chart, and demographic info to match the selected sample ID. 
 
+## GitPages 
+### https://arlestotle.github.io/belly-button-challenge/
+
 ### Outside Help
 #### For this assignment, I used outside sources such as Stack Overflow and ChatGPT. 
 ##### 'let sample_id = data.filter(select => select.id == test);' to help filter the data based on the sample ID. 
