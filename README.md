@@ -21,7 +21,7 @@
 ### https://arlestotle.github.io/belly-button-challenge/
 
 ### Outside Help
-#### For this assignment, I used outside sources such as Stack Overflow and ChatGPT. 
+#### For this assignment, I used outside sources such as Stack Overflow, ChatGPT, and AskBCS.
 ##### 'let sample_id = data.filter(select => select.id == test);' to help filter the data based on the sample ID. 
 ##### 'otu_ids.slice(0,10).map(id => `OTU ${id}`).reverse();' to extract the first 10 elements of the otu_ids array and converts it to a string where the ID in reverse or descending order. 
 ##### 'Object.entries(valueData).forEach(([key,value_id]) => {d3.select('#sample-metadata').append('h5').text(`${key}: ${value_id}`);});' which returns an array of a given pair in this case key and value_id and the iterates through each pair and appends the values into the demographic info table. 
